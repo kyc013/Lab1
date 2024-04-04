@@ -46,4 +46,4 @@ The current working directory is /home. When commanded without any arugements, t
 - [ ] Neptune
 - [ ] Comet Haley
 
-[jump to top page](# Lab 1)
+ [jump to top page](# Lab 1)
