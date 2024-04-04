@@ -22,6 +22,7 @@ Links to an external site.. Include the URL to the published site in your README
 
 Hello.
 I don't see myself much as a programmer so I'll just talk about what I like.
+
 I like movies, some of my favorite being *Edward Scissorhands*, *Rocco and His Brothers*, and *The Man From Nowhere*.
 
 1. d is used for changing directory
