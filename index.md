@@ -4,8 +4,8 @@ Create a new file called index.md. This is where you'll create your User Page, w
     All the core Markdown constructs in GitHub Flavored Markdown 
 
     Links to an external site.
-        Headings
-        Styling text
+        Headings o
+        Styling text o
         Quoting text
         Quoting code
         External Links
@@ -16,3 +16,16 @@ Create a new file called index.md. This is where you'll create your User Page, w
 
 Once you are finished, publish your web page through Github Pages - instructions here
 Links to an external site.. Include the URL to the published site in your README.md file.
+
+# Lab 1  
+*Kyungwoo Choi*  
+
+Some of the basic filesystem commands we learned today was **cd**, **ls**, and **cat**.
+* **cd** is used for changing directory
+* **ls** is used for listing all the files in the directory
+* **cat** prints the cnontents of whichever file the user selects
+
+## cd
+
+![스크린샷(124)-1](https://github.com/kyc013/cse15l-lab-reports/assets/147003854/c5856114-f8a5-4471-bf0e-09879ad91ec5)  
+`The current working directory is /home. When commanded without any arugements, the working directory would take you back to the home directory. For instance, if the working directory was /home/folder1, then it would change to /home.`
