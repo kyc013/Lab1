@@ -28,7 +28,9 @@ I like movies, some of my favorite being *Edward Scissorhands*, *Rocco and His B
 2. ls is used for listing all the files in the directory
 3. cat prints the cnontents of whichever file the user selects
 > cd
+
 Join our [community forum](https://itsfoss.community/) and seek help from us and the fellow members.
+
 ![스크린샷(124)-1](https://github.com/kyc013/cse15l-lab-reports/assets/147003854/c5856114-f8a5-4471-bf0e-09879ad91ec5)  
 ```
 The current working directory is /home. When commanded without any arugements, the working directory would take you back to the home directory. For instance, if the working directory was /home/folder1, then it would change to /home.
