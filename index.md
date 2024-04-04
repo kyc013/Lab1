@@ -34,16 +34,14 @@ Join our [community forum](https://itsfoss.community/) and seek help from us and
 
 ![스크린샷(124)-1](https://github.com/kyc013/cse15l-lab-reports/assets/147003854/c5856114-f8a5-4471-bf0e-09879ad91ec5)  
 ```
-The current working directory is /home. When commanded without any arugements, the working directory would take you back to the home directory. For instance, if the working directory was /home/folder1, then it would change to /home.
+The current working directory is /home. When commanded without any arugements, the working directory would take you back to the home directory.
 ```
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+
+Here's a list of my bucket list.
+- [ ] Skydiving
+- [x] Watching a black and white movie in a theater
+- [x] Staying awake for more than 24 hours
+- [ ] Staying a week in Paris
+- [ ] seeing a meteor shower
 
  [jump to top page](# Lab 1)
