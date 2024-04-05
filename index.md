@@ -39,10 +39,6 @@ I also like novels. Out of the ones I've read so far, here's my list of favorite
 4. Frankenstein
 5. To Kill A Mockingbird
 
-> cd
-
-I got a lot of help from the [Basic Syntax](https://www.markdownguide.org/basic-syntax/) to create this page.
-
 I alo used to listen to a lot of Elvis songs and interviews in highschool. One of my favorite quotes of his goes like this:
 
 ![Cn3De3gUkAAupR9](https://github.com/kyc013/Lab1/assets/147003854/cf5aee86-c504-4024-ba70-729bf24e6791)
@@ -58,4 +54,7 @@ Here's a list of my bucket list.
 - [ ] Staying a week in Paris
 - [ ] seeing a meteor shower
 
+> cd
+
+I got a lot of help from the [Basic Syntax](https://www.markdownguide.org/basic-syntax/) to create this page.
  [jump to top page](# Lab 1)
