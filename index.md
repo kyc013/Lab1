@@ -55,58 +55,17 @@ Here's a list of my bucket list.
 - [ ] Seeing a meteor shower
 
 Lastly, a quiz:
-Guess what the following code would output.
+Guess what the following code would print.
 
-    import turtle 
-     
-    # Set up the turtle 
-    turtle.setup(400, 500) 
-    wn = turtle.Screen() 
-    wn.title("How to draw a face using turtle") 
-    wn.bgcolor("lightgreen") 
-     
-    # Create a turtle to draw the face 
-    t = turtle.Turtle() 
-    t.color("blue") 
-    t.pensize(5) 
-     
-    # Draw the head 
-    t.penup() 
-    t.goto(-100, 100) 
-    t.pendown() 
-    t.circle(50) 
-     
-    # Draw the eyes 
-    t.penup() 
-    t.goto(-70, 70) 
-    t.pendown() 
-    t.circle(10) 
-     
-    t.penup() 
-    t.goto(-30, 70) 
-    t.pendown() 
-    t.circle(10) 
-     
-    # Draw the nose 
-    t.penup() 
-    t.goto(-50, 50) 
-    t.pendown() 
-    t.goto(-50, 30) 
-    t.goto(-60, 40) 
-    t.goto(-40, 40) 
-    t.goto(-50, 30) 
-     
-    # Draw the mouth 
-    t.penup() 
-    t.goto(-60, 10) 
-    t.pendown() 
-    t.goto(-40, 10) 
-     
-    # Hide the turtle 
-    t.hideturtle() 
-     
-    # Keep the window open until it is closed 
-    wn.mainloop() 
+    void zero(int x) {
+        x = 0;
+    }
+
+    int main() {
+        int myInt = 42;
+        zero(myInt);
+        cout << myInt;
+    }
 
 I got a lot of help from the [Basic Syntax](https://www.markdownguide.org/basic-syntax/) to create this page.
 
