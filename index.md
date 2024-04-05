@@ -1,4 +1,4 @@
-# Lab 1  
+## Lab 1  
 **Kyungwoo Choi**  
 
 Hello.
