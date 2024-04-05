@@ -27,7 +27,7 @@ I used to listen to a lot of Elvis songs and interviews in highschool. One of my
 >You only pass through this life once, you don't come back for an encore.
 
 
-Here's a list of my bucket list.
+Here's my bucket list.
 - [ ] Skydiving
 - [x] Watching a black and white movie in a theater
 - [x] Staying awake for more than 24 hours
