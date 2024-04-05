@@ -24,9 +24,8 @@ I used to listen to a lot of Elvis songs and interviews in highschool. One of my
 
 [![Cn3De3gUkAAupR9](https://github.com/kyc013/Lab1/assets/147003854/cf5aee86-c504-4024-ba70-729bf24e6791)](https://github.com/kyc013/Lab1/blob/main/Cn3De3gUkAAupR9.jpg)
 
-```
-You only pass through this life once, you don't come back for an encore.
-```
+>You only pass through this life once, you don't come back for an encore.
+
 
 Here's a list of my bucket list.
 - [ ] Skydiving
