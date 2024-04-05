@@ -56,7 +56,8 @@ Here's a list of my bucket list.
 
 Lastly, a quiz:
 Quess what the following code would output.
->     import turtle 
+
+    import turtle 
      
     # Set up the turtle 
     turtle.setup(400, 500) 
