@@ -50,4 +50,4 @@ Guess what the following code would print.
 
 I got a lot of help from the [Basic Syntax](https://www.markdownguide.org/basic-syntax/) to create this page.
 
-[jump to top page](#Lab 1)
+[jump to top of page](#Lab1)
