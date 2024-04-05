@@ -39,7 +39,7 @@ I also like novels. Out of the ones I've read so far, here's my list of favorite
 4. Frankenstein
 5. To Kill A Mockingbird
 
-I alo used to listen to a lot of Elvis songs and interviews in highschool. One of my favorite quotes of his goes like this:
+I used to listen to a lot of Elvis songs and interviews in highschool. One of my favorite quotes of his goes like this:
 
 ![Cn3De3gUkAAupR9](https://github.com/kyc013/Lab1/assets/147003854/cf5aee86-c504-4024-ba70-729bf24e6791)
 
@@ -54,7 +54,58 @@ Here's a list of my bucket list.
 - [ ] Staying a week in Paris
 - [ ] seeing a meteor shower
 
-> cd
+Lastly, a quiz:
+Quess what the following code would output.
+>     import turtle 
+     
+    # Set up the turtle 
+    turtle.setup(400, 500) 
+    wn = turtle.Screen() 
+    wn.title("How to draw a face using turtle") 
+    wn.bgcolor("lightgreen") 
+     
+    # Create a turtle to draw the face 
+    t = turtle.Turtle() 
+    t.color("blue") 
+    t.pensize(5) 
+     
+    # Draw the head 
+    t.penup() 
+    t.goto(-100, 100) 
+    t.pendown() 
+    t.circle(50) 
+     
+    # Draw the eyes 
+    t.penup() 
+    t.goto(-70, 70) 
+    t.pendown() 
+    t.circle(10) 
+     
+    t.penup() 
+    t.goto(-30, 70) 
+    t.pendown() 
+    t.circle(10) 
+     
+    # Draw the nose 
+    t.penup() 
+    t.goto(-50, 50) 
+    t.pendown() 
+    t.goto(-50, 30) 
+    t.goto(-60, 40) 
+    t.goto(-40, 40) 
+    t.goto(-50, 30) 
+     
+    # Draw the mouth 
+    t.penup() 
+    t.goto(-60, 10) 
+    t.pendown() 
+    t.goto(-40, 10) 
+     
+    # Hide the turtle 
+    t.hideturtle() 
+     
+    # Keep the window open until it is closed 
+    wn.mainloop() 
 
 I got a lot of help from the [Basic Syntax](https://www.markdownguide.org/basic-syntax/) to create this page.
 
