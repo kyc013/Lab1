@@ -29,11 +29,11 @@ You only pass through this life once, you don't come back for an encore.
 ```
 
 Here's a list of my bucket list.
-- [ ] Skydiving
-- [x] Watching a black and white movie in a theater
-- [x] Staying awake for more than 24 hours
-- [ ] Staying a week in Paris
-- [ ] Seeing a meteor shower
+ [ ] Skydiving
+ [x] Watching a black and white movie in a theater
+ [x] Staying awake for more than 24 hours
+ [ ] Staying a week in Paris
+ [ ] Seeing a meteor shower
 
 Lastly, a quiz:
 Guess what the following code would print.
