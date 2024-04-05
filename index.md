@@ -1,22 +1,3 @@
-Create a new file called index.md. This is where you'll create your User Page, which should include content that introduces who you are as a programmer and as a person. Your User Page must be made with Markdown. For this assignment, your page must include the following:
-
-    Pictures
-    All the core Markdown constructs in GitHub Flavored Markdown 
-
-    Links to an external site.
-        Headings o
-        Styling text o
-        Quoting text o
-        Quoting code o
-        External Links o
-        Section links o
-        Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.) o
-        Ordered and Unordered Lists o
-        Task lists o
-
-Once you are finished, publish your web page through Github Pages - instructions here
-Links to an external site.. Include the URL to the published site in your README.md file.
-
 # Lab 1  
 **Kyungwoo Choi**  
 
@@ -69,4 +50,4 @@ Guess what the following code would print.
 
 I got a lot of help from the [Basic Syntax](https://www.markdownguide.org/basic-syntax/) to create this page.
 
-[jump to top page](#Lab1)
+[jump to top page](#Lab 1)
