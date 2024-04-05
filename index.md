@@ -21,20 +21,34 @@ Links to an external site.. Include the URL to the published site in your README
 **Kyungwoo Choi**  
 
 Hello.
-I don't see myself much as a programmer so I'll just talk about what I like.
+I don't see myself much as a *programmer* so I'll just talk about what I like.
 
-I like movies, some of my favorite being *Edward Scissorhands*, *Rocco and His Brothers*, and *The Man From Nowhere*.
+I like movies, some of my favorite being the following:
 
-1. d is used for changing directory
-2. ls is used for listing all the files in the directory
-3. cat prints the cnontents of whichever file the user selects
+- A Streetcar Named Desire
+- Roman Holiday
+- Edward Scissorhands
+- Rocco and His Brothers
+- The Man From Nowhere
+
+I also like novels. Out of the ones I've read so far, here's my list of favorite books:
+
+1. The Great Gatsby
+2. The Catcher In The Rye
+3. The Little Prince
+4. Frankenstein
+5. To Kill A Mockingbird
+
 > cd
 
-Join our [community forum](https://itsfoss.community/) and seek help from us and the fellow members.
+I got a lot of help from the [Basic Syntax](https://www.markdownguide.org/basic-syntax/) to create this page.
 
-![스크린샷(124)-1](https://github.com/kyc013/cse15l-lab-reports/assets/147003854/c5856114-f8a5-4471-bf0e-09879ad91ec5)  
+I alo used to listen to a lot of Elvis songs and interviews in highschool. One of my favorite quotes of his goes like this:
+
+![Cn3De3gUkAAupR9](https://github.com/kyc013/Lab1/assets/147003854/cf5aee86-c504-4024-ba70-729bf24e6791)
+
 ```
-The current working directory is /home. When commanded without any arugements, the working directory would take you back to the home directory.
+You only pass through this life once, you don't come back for an encore.
 ```
 
 Here's a list of my bucket list.
