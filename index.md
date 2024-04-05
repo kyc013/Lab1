@@ -52,10 +52,10 @@ Here's a list of my bucket list.
 - [x] Watching a black and white movie in a theater
 - [x] Staying awake for more than 24 hours
 - [ ] Staying a week in Paris
-- [ ] seeing a meteor shower
+- [ ] Seeing a meteor shower
 
 Lastly, a quiz:
-Quess what the following code would output.
+Guess what the following code would output.
 
     import turtle 
      
