@@ -24,7 +24,11 @@
     const dueDate = document.getElementById('due-date');
     const taskList = document.getElementById('task-list');
     const deleteAllBtn = document.getElementById('delete-all');
-    
+
+    function deleteTask(event) {
+      event.target.parentNode.remove();
+    }
+
     taskForm.addEventListener('submit', function(e) {
       e.preventDefault();
       
@@ -34,10 +38,15 @@
       if (task) {
         const li = document.createElement('li');
         const checkbox = document.createElement('input');
+        const deleteButton = document.createElement('button');
+        
         checkbox.type = 'checkbox';
+        deleteButton.textContent = 'Delete';
+        deleteButton.addEventListener('click', deleteTask);
         
         li.textContent = task + ' - Due Date: ' + date;
         li.appendChild(checkbox);
+        li.appendChild(deleteButton);
         taskList.appendChild(li);
         
         taskInput.value = '';
